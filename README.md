@@ -1,2 +1,3 @@
 # customvisiondemo
-A C# demo of implementing a customvision api
+
+This sample project shows how you can implement and consume your custom vision classifiers in C#.
